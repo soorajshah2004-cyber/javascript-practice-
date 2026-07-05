@@ -2,7 +2,7 @@
 
 This repository contains my JavaScript learning journey as I work toward becoming a Full Stack MERN Developer.
 
-## Topics Covered
+## Completed Topics
 
 - Loops
 - Pattern Programming
